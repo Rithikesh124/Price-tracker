@@ -8,7 +8,7 @@
   ],
   "functions": {
     "api/*.py": {
-      "runtime": "@vercel/python"
+      "runtime": "now-python@1.0.0"
     }
   }
 }
